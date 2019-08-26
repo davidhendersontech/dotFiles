@@ -12,7 +12,7 @@ src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/vim.p
 
 # ncmpcpp
 <img
-src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/ncmpcpp.png?raw=true">
+src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/ncmpcpp2.png?raw=true">
 
 # rofi 
 <img
