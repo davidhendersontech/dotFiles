@@ -6,12 +6,14 @@ but don't worry its still lit
 colorscheme is gruvbox
 
 
-#vim and titlebar
+# vim and titlebar
 <img
 src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/vim.png?raw=true">
 
-#ncmpcpp
+# ncmpcpp
 <img
 src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/ncmpcpp.png?raw=true">
 
-
+# rofi 
+<img
+src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/rofi.png?raw=true">
