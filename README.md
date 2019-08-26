@@ -5,4 +5,6 @@ but don't worry its still lit
 
 
 #vim and titlebar
-![vimandtitlebar](https://github.com/notDavidHenderon/dotFiles/screenshots/vim.png)
+<img
+src="https://github.com/notDavidHenderson/dotFiles/blob/master/screenshots/vim.png?raw=true">
+
